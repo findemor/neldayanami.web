@@ -1,0 +1,196 @@
+@media only screen and (min-width: 530px) and (max-width: 750px){
+
+/* NELD AYANAMI */
+
+#pagUno{
+	height: 780px;
+	padding-top: 100px;
+}
+
+#contenedor1{
+	max-width: 280px;
+}
+
+#fotoPresentacion{
+	clear: left;
+	margin-left: 10px;
+	margin-bottom: 20px;
+}
+
+
+/* TRABAJOS */
+
+#pagDos{
+	height: 1700px;
+}
+
+
+#contenedor2{
+	max-width: 500px;
+}
+
+#titulografico{
+	top: 380px;
+}
+
+#tituloweb{
+	top: 838px;
+}
+
+#titulomovil{
+	top: 1293px;
+}
+
+#ilustracion1{
+	margin-left: 60px;
+}
+
+#ilustracion3{
+	margin-left: 60px;
+}
+
+.graficos{
+	margin-left: 20px;
+}
+
+#webs1{
+	margin-left: 60px;
+}
+
+#webs3{
+	margin-left: 60px;
+	margin-top: 30px;
+	margin-right: 100px;
+}
+
+.webs{
+	margin-left: 17px;
+}
+
+#movil1{
+	margin-left: 90px;
+}
+
+#movil3{
+	margin-left: 90px;
+}
+
+.movil{
+	margin-top: 40px;
+	margin-left: 80px;
+}
+
+
+
+
+/* SOBRE MI */
+
+#pagTres{
+	height: 1300px;
+}
+
+
+#contenedor3{
+	max-width: 280px;
+}
+
+.imagenesSobre{
+	margin-left: 30px;
+}
+
+#fotoConocimientos{
+	margin-left: 20px;
+}
+
+#estudios{
+	clear: left;
+	width: 280px;
+	margin-bottom: 50px;
+	margin-right: 0px;
+	margin-left: 10px;
+}
+
+#conocimientos{
+	clear: left;
+	margin-left: 10px;
+}
+
+
+
+
+
+
+/* CONTACTAR */
+
+#pagCuatro{
+	height: 1020px;
+}
+
+#contenedor4{
+	max-width: 280px;
+
+}
+
+form{
+	clear: left;
+	margin-right: 0px;
+
+}
+
+#imagenTelef{
+	clear: left;
+	margin-left: 0px;
+	margin-top: 0px;
+}
+
+
+
+/* PIE */
+
+
+
+#footer{
+	height: 410px;
+}
+
+#contenedor5{
+	width: 200px;
+}
+
+#contenedor5 ul{
+	clear: left;
+	margin-left: 25px;
+	margin-right: 0px;
+	font-size: 12pt;
+	line-height: 24px;
+	margin-bottom: 25px;
+}
+
+h5{
+	font-size: 14pt;
+	margin-bottom: 10px;
+}
+
+
+#linkedinPie{
+	clear: left;
+	float: right;
+	margin-left: -40px;
+}
+
+
+#twitterPie{
+	clear: left;
+	float: right;
+}
+
+#facebookPie{
+	clear: left;
+	float: right;
+}
+
+
+
+
+
+}

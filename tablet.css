@@ -1,0 +1,110 @@
+@media screen and (min-width: 750px) and (max-width: 950px){
+
+/* TRABAJOS */
+
+#contenedor2{
+	max-width: 700px;
+}
+
+#titulografico{
+	top: 380px;
+}
+
+#tituloweb{
+	top: 618px;
+}
+
+#titulomovil{
+	top: 893px;
+}
+
+#ilustracion1{
+	margin-left: 50px;
+}
+
+.graficos{
+	margin-top: 20px;
+	margin-left: 20px;
+}
+
+#webs1{
+	margin-left: 50px;
+}
+
+.webs{
+	margin-left: 20px;
+}
+
+#movil1{
+	margin-left: 85px;
+}
+
+.movil{
+	margin-left: 80px;
+}
+
+
+
+/* SOBRE MI */
+
+#pagTres{
+	height: 820px;
+}
+
+#contenedor3{
+	max-width: 700px;
+}
+
+.imagenesSobre{
+	margin-left: 50px;
+}
+
+#fotoConocimientos{
+	margin-left: 20px;
+}
+
+#estudios{
+	width: 300px;
+	margin-left: 20px;
+}
+
+
+
+
+
+/* CONTACTAR */
+
+#pagCuatro{
+	height: 780px;
+}
+
+#contenedor4{
+	max-width: 630px;
+
+}
+
+form{
+	margin-right: 30px;
+
+}
+
+
+
+
+/* PIE */
+
+
+#contenedor5{
+	width: 660px;
+}
+
+#contenedor5 ul{
+	margin-right: 35px;
+}
+
+
+
+
+
+
+}

@@ -1,0 +1,216 @@
+@media only screen and (max-width: 530px){
+
+
+/* MENU */
+
+#listaMenu{
+	visibility: hidden;
+}
+
+#cuadroMenu{
+	visibility: visible;
+}
+
+
+/* NELD AYANAMI */
+
+#pagUno{
+	height: 780px;
+	padding-top: 100px;
+}
+
+#contenedor1{
+	max-width: 280px;
+}
+
+#fotoPresentacion{
+	clear: left;
+	margin-left: 10px;
+	margin-bottom: 20px;
+}
+
+
+
+
+/* TRABAJOS */
+
+#pagDos{
+	height: 2380px;
+}
+
+
+#contenedor2{
+	max-width: 280px;
+}
+
+#titulografico{
+	top: 380px;
+}
+
+#tituloweb{
+	top: 1058px;
+}
+
+#titulomovil{
+	top: 1723px;
+}
+
+#ilustracion1{
+	margin-left: 50px;
+}
+
+#ilustracion3{
+	margin-left: 50px;
+}
+
+.graficos{
+	margin-left: 50px;
+	clear: left;
+}
+
+#webs1{
+	margin-left: 50px;
+	margin-top: 50px;
+}
+
+#webs3{
+	margin-left: 50px;
+	margin-top: 25px;
+	margin-right: 0px;
+}
+
+.webs{
+	margin-left: 50px;
+	margin-top: 25px;
+	clear: left;
+}
+
+#movil1{
+	margin-left: 70px;
+	margin-top: 50px;
+}
+
+#movil3{
+	margin-left: 70px;
+}
+
+.movil{
+	margin-top: 25px;
+	margin-left: 70px;
+	clear: left;
+}
+
+
+
+
+	/* SOBRE MI */
+
+#pagTres{
+	height: 1300px;
+}
+
+
+#contenedor3{
+	max-width: 280px;
+}
+
+.imagenesSobre{
+	margin-left: 30px;
+}
+
+#fotoConocimientos{
+	margin-left: 20px;
+}
+
+#estudios{
+	clear: left;
+	width: 280px;
+	margin-bottom: 50px;
+	margin-right: 0px;
+	margin-left: 10px;
+}
+
+#conocimientos{
+	clear: left;
+	margin-left: 10px;
+}
+
+
+
+
+
+/* CONTACTAR */
+
+#pagCuatro{
+	height: 1020px;
+}
+
+#contenedor4{
+	max-width: 280px;
+
+}
+
+form{
+	clear: left;
+	margin-right: 0px;
+
+}
+
+#imagenTelef{
+	clear: left;
+	margin-left: 0px;
+	margin-top: 0px;
+}
+
+
+
+/* PIE */
+
+
+
+#footer{
+	height: 410px;
+}
+
+#contenedor5{
+	width: 200px;
+}
+
+#contenedor5 ul{
+	clear: left;
+	margin-left: 25px;
+	margin-right: 0px;
+	font-size: 12pt;
+	line-height: 24px;
+	margin-bottom: 25px;
+}
+
+h5{
+	font-size: 14pt;
+	margin-bottom: 10px;
+}
+
+
+#linkedinPie{
+	clear: left;
+	float: right;
+	margin-left: -40px;
+}
+
+
+#twitterPie{
+	clear: left;
+	float: right;
+}
+
+#facebookPie{
+	clear: left;
+	float: right;
+}
+
+
+
+
+
+
+}
